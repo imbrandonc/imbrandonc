@@ -1,0 +1,1 @@
+👋 Hi, I’m Brandon and I've been learning to code in my spare time over the past few years. I enjoy working with Python and Javascript, but I'm happy to work with any language if it's the right tool for the job. I wish I would've learned to code earlier in life, but I guess it's never too late :)
